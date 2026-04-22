@@ -1,7 +1,7 @@
 # 🎮 Eduardo Nava · Pixel Dev Studio
 
 <p align="center">
-  <img src="assets/images/preview.png" alt="Eduardo Nava Portfolio Preview" width="800px">
+  <img src="assets/images/Preview.png" alt="Eduardo Nava Portfolio Preview" width="800px">
 </p>
 
 <p align="center">
