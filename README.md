@@ -1,7 +1,7 @@
 # 🎮 Eduardo Nava · Pixel Dev Studio
 
 <p align="center">
-  <img src="assets/images/preview.webp" alt="Eduardo Nava Portfolio Preview" width="800px">
+  <img src="assets/images/preview.png" alt="Eduardo Nava Portfolio Preview" width="800px">
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ Este sitio está optimizado para ser desplegado gratuitamente en:
 | **Netlify** | Drag & Drop de la carpeta |
 
 ### 🌐 Demo en vivo
-🔗 **[https://eduardonava.dev](https://eduardonava.dev)** *(próximamente)*
+🔗 **[https://eduaryein.github.io/eduardo-nava-pixel-dev/](https://eduaryein.github.io/eduardo-nava-pixel-dev/)** 
 
 ---
 
@@ -203,4 +203,3 @@ Si te gusta este portafolio y quieres apoyar mi trabajo:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eduaryein&repo=eduardo-nava-pixel-dev&color=7aa2f7&style=flat-square" alt="Visitas">
 </p>
-```
